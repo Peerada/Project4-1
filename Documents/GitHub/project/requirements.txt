@@ -1,0 +1,15 @@
+Flask==0.11.1
+get
+gunicorn==19.6.0
+post
+requests
+wikipedia
+line-bot-sdk
+pandas==0.20.3
+googletrans
+numpy
+pythainlp == 2.1
+sklearn
+pygsheets
+openpyxl
+xlrd
